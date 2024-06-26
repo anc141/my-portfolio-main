@@ -1,6 +1,6 @@
 import ProjectCard from "./ProjectCard";
 import projects from "../_data/projects.json";
-import experinece from "../_data/Experience.json";
+import Experience from "../_data/Experience.json";
 
 /**
  * Represents a list of project cards.
@@ -18,7 +18,7 @@ const ProjectList = () =>
   //  projects.map((project) => (
   //   <ProjectCard key={project.id} title={project.title} image={project.image} color={project.bgcolor} />
   // ));
-  experinece.map((project) => (
+  Experience.map((project) => (
     <ProjectCard key={project.id} title={project.title} image={project.image} color={project.bgcolor} />
   ));
 

@@ -65,7 +65,7 @@ const Hero = ({ name }) => {
               cursor: "",
             }}
             onInit={(typewriter) => {
-              typewriter.changeDelay(50).typeString("Software Engineer").start();
+              typewriter.changeDelay(50).typeString("Senior Software Engineer").start();
             }}
           />
         </motion.div>

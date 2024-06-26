@@ -6,7 +6,7 @@ import PageNotFound from "../../404/PageNotFound";
 import Button from "../../../components/Button";
 import Image from "../../../components/Image";
 import projects from "../../../_data/projects.json";
-import Experinece from "../../../_data/Experience.json";
+import Experience from "../../../_data/Experience.json";
 import Footer from "../../../components/Footer";
 
 /**
@@ -30,7 +30,7 @@ const ProjectDetails = () => {
 
   // Find the project in the data using the title
   // const project = projects.find((project) => project.title.toLowerCase() === projectTitle);
-  const project = Experinece.find((project) => project.title.toLowerCase() === projectTitle);
+  const project = Experience.find((project) => project.title.toLowerCase() === projectTitle);
 
   // If the project is not found, display the PageNotFound component
   if (!project) {

@@ -69,21 +69,24 @@ const AboutMe = ({ name }) => {
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
                 Today, I'm immersed in an exhilarating chapter of my journey as a Software Engineer 
-                 at the reatil giant <span style={{ color: "var(--hl-color)" }}>Walmart</span>. My domain? The fascinating world of <span style={{ color: "var(--hl-color)" }}>Software development</span>.
+                at the retail giant <span style={{ color: "var(--hl-color)" }}>Walmart</span>. My domain? The fascinating world of <span style={{ color: "var(--hl-color)" }}>software development</span>
+                
+                
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                Here, I embrace my <span style={{ color: "var(--hl-color)" }}>problem-solving </span>skills 
-                and dive headfirst into real-world challenges, drawing from my <span style={{ color: "var(--hl-color)" }}>Computer Science</span>degree 
-                from the  <span style={{ color: "var(--hl-color)" }}>Cleveland State University</span>. So here I 
+                Here, I embrace my <span style={{ color: "var(--hl-color)" }}>problem-solving</span> skills 
+                and dive headfirst into real-world challenges, drawing from my <span style={{ color: "var(--hl-color)" }}>Computer Science</span> degree
+                from <span style={{ color: "var(--hl-color)" }}>Cleveland State University</span>. So here I 
                 am, navigating through binary complexities and practical puzzles, all while crafting my own 
                 success narrative.
+
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
                 Life is a rich tapestry of experiences, extending far beyond the boundaries of work. 
-                When coding isn't my primary focus, I'm engrossed in HOBBY, HOBBY, and nurturing my 
-                passion for HOBBY.
+                When coding isn't my primary focus, I'm engrossed in Traveling, Gardening, and nurturing my 
+                passion for working out.
                 </motion.p>
               </motion.div>
 

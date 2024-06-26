@@ -9,7 +9,7 @@
       "from":"Aug 2022",
       "to":"current",
       "deployed": "https://tech.walmart.com/",
-      "body": "During this time I led the design and development of a web-based AutoCAD solution to create space design floor maps for Walmart retail stores. Developed plugins for the Desktop AutoCAD applications.Coordinated system changes across teams with thorough testing and validation. Played an integral role in designing a high-performance, efficient, and robust backend and an attractive UI for AutoCAD. Architected the UI workflow for the web-based AutoCAD application, utilizing extensive JavaScript for a responsive and fast user interface. Spearheaded the migration of the entire product to Blazor UI and supported the JDA Floor Planning CKB application, integrating it with external APIs for data export.Created and modifed the functionality for the Canvas and SVG for UI.Utilized skills like SQL, Git, REST,SignalR, React, Blazor, JIRA",
+      "body": "During this time, I led the design and development of a web-based AutoCAD solution to create space design floor maps for Walmart retail stores. I developed plugins for the desktop AutoCAD applications, coordinated system changes across teams with thorough testing and validation, and played an integral role in designing a high-performance, efficient, and robust backend, as well as an attractive UI for AutoCAD.I architected the UI workflow for the web-based AutoCAD application, utilizing extensive JavaScript for a responsive and fast user interface. I spearheaded the migration of the entire product to Blazor UI and supported the JDA Floor Planning CKB application, integrating it with external APIs for data export. I also created and modified the functionality for the Canvas and SVG for the UI.In this role, I utilized skills such as SQL, Git, REST, SignalR, React, Blazor, and JIRA.",
       "technologies": ["C#","JavaScript","Blazor", "jQuery", "React","Blazor", "HTML","SVG", "Asp.net"],
       "bgcolor": "var(--hl2-color)" ,
       "id": "1"
@@ -24,7 +24,7 @@
         "from":"Aug 2019",
         "to":"Aug 2022",
         "deployed": "https://www.sita.aero/",
-        "body": "During this time I Developed software solutions for airlines and airports. Created a client-server check-in & boarding application for airlines.During this project I contributed in Frontend and Backend development and managed various global production servers. Led and mentored a team of two engineers, implementing scalable micro-services for the product. Collaborated closely with UI/UX, product, and operations teams for design and POC approvals.Led the Documentless Travel and Timatic project for the Australian and US governments, which made travel smooth and hassle-free during COVID-19 using facial recognition. This product helped the company gain new airports as clients, including SFO, LA, Bangalore Airport, Mumbai Airport, and others.",
+        "body": "During this time, I developed software solutions for airlines and airports. I created a client-server check-in and boarding application for airlines. Throughout this project, I contributed to both frontend and backend development and managed various global production servers. I led and mentored a team of two engineers, implementing scalable microservices for the product. I collaborated closely with UI/UX, product, and operations teams for design and POC approvals.I also led the Documentless Travel and Timatic project for the Australian and US governments, which facilitated smooth and hassle-free travel during COVID-19 using facial recognition. This product helped the company gain new airports as clients, including SFO, LAX, Bangalore Airport, Mumbai Airport, and others.",
         "technologies": ["C#","JavaScript","TypeScript", "jQuery", "JQgrid","HTML","MATLAb","Python","VB.Net", "Asp.net"],
         "bgcolor": "#e47911",
         "id": "2"
@@ -39,8 +39,7 @@
         "from":"Nov 2018",
         "to":"Aug 2019",
         "deployed": "https://www.goodwill.org/",
-        "body": "During this time I worked on numerious projects like Point of Sale, Task Scheduler (Android App), Email Router,Ad Campaign,SharePoint applications. Worked on different analytic tools like POWERBI, SSRS,SSIS, for development and analysis of reports. Building and maintaining eCommerce website application for company.",
-        "technologies": ["C#","JavaScript","Blazor", "jQuery", "React","Blazor", "HTML","SVG", "Asp.net"],
+        "body": "During this time, I worked on numerous projects such as Point of Sale, Task Scheduler (Android App), Email Router, Ad Campaign, and SharePoint applications. I also worked with different analytic tools like POWER BI, SSRS, and SSIS for the development and analysis of reports. Additionally, I was responsible for building and maintaining an eCommerce website application for the company.",  "technologies": ["C#","JavaScript","Blazor", "jQuery", "React","Blazor", "HTML","SVG", "Asp.net"],
         "bgcolor": "#6c4bf4",
         "id": "3"
       },
@@ -54,8 +53,7 @@
         "from":"May 2017",
         "to":"May 2018",
         "deployed": "https://my.clevelandclinic.org/",
-        "body": "During this time I worked on Maintenance and configuration Cleveland Clinic website functionality and database. Designing & Developing healthcare applications for company. Have worked on multiple projects like MyConsult, Windows Authentication,MapApp, File Transfer, etc. Performing data analytics on company website using different analytic tools. Learnt how to understand the business workflow and use it building useful data tools. Perform SEO analysis and resolve crawl errors.",
-        "technologies": ["C#","JavaScript","Blazor", "jQuery", "React","Blazor", "HTML","SVG", "Asp.net"],
+        "body": "During this time, I worked on maintenance and configuration of the Cleveland Clinic website functionality and database. I also designed and developed healthcare applications for the company, working on multiple projects such as MyConsult, Windows Authentication, MapApp, and File Transfer. Additionally, I performed data analytics on the company website using different analytic tools. I learned how to understand the business workflow and used it to build useful data tools. I also performed SEO analysis and resolved crawl errors.", "technologies": ["C#","JavaScript","Blazor", "jQuery", "React","Blazor", "HTML","SVG", "Asp.net"],
         "bgcolor": "#f85781",
         "id": "4"
       },
@@ -84,8 +82,7 @@
         "from":"Aug 2016",
         "to":"May 2018",
         "deployed": "https://www.infosys.com/",
-        "body": "During this time I worked with the British telecomm Account project , where I worked migrating platform and setting up CICD pipeline.Created different reports using SSRS, PowerBI, and managened logging using ELK stack. ",
-        "technologies": ["Elastic Search","Logstash","Kibana", "Tableau", "PowerBI","Computer Netwroks", "Wireshark","Chef", "Jenkins"],
+        "body": "During this time, I worked on the British Telecomm Account project, focusing on migrating platforms and setting up a CI/CD pipeline. I created various reports using SSRS and Power BI, and managed logging using the ELK stack.",  "technologies": ["Elastic Search","Logstash","Kibana", "Tableau", "PowerBI","Computer Netwroks", "Wireshark","Chef", "Jenkins"],
         "bgcolor": "#3e67ff",
         "id": "5"
       },
@@ -99,8 +96,8 @@
         "from":"Apr 2015",
         "to":"June 2013",
         "deployed": "https://www.se.com/us/en/",
-        "body": "Maintenance and configuration of company website and production database. Updating frequent changes to front-end and backend as needed. Designed database architecture and developed database. Technical support and troubleshooting. Developing Web Application for different clients based on requirements of Control panels.",
-        "technologies": ["C#","JavaScript", "WPF", "MSSQL Server", "ADO.NET", "Entity framework", "VB.NET","jQuery", "HTML"],
+        "body": "Maintenance and configuration of the company website and production database. Updating frequent changes to the front-end and backend as needed. Designed database architecture and developed databases. Provided technical support and troubleshooting. Developed web applications for different clients based on the requirements of control panels.",
+       "technologies": ["C#","JavaScript", "WPF", "MSSQL Server", "ADO.NET", "Entity framework", "VB.NET","jQuery", "HTML"],
         "bgcolor": "#154a54",
         "id": "6"
       }
