@@ -107,6 +107,7 @@ If you appreciate my work, I'd be thrilled if you consider giving it a star 🌟
 Feel free to fork this repo for your own purposes, provided you give me credit.
 
   <p align="right"><a href="#readme-top">back to top</a></p>
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=anc141.my-portfolio-main)
 
 <!-- GETTING STARTED -->
 
@@ -178,6 +179,6 @@ Project Link: [https://github.com/anc141](https://github.com/anc141)
 [product-screenshot3]: src/images/Screenshot3.jpeg
 [product-screenshot4]: src/images/Screenshot4.jpeg
 [responsive-screenshot]: src/images/mobile-screenshot.png
-[responsive-screenshot2]: src/images/mobile-
+[responsive-screenshot2]: src/images/mobile-screenshot2.png
 [responsive-screenshot3]: src/images/mobile-screenshot3.png
 [responsive-screenshot4]: src/images/mobile-screenshot4.png
