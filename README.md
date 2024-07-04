@@ -8,6 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Visitors][visitors-shield]]
 
   <!-- PROJECT LOGO -->
 
@@ -163,6 +164,8 @@ Project Link: [https://github.com/anc141](https://github.com/anc141)
 [license-url]: https://github.com/anc141/my-portfolio-main/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/amolnchaudhari
+[visitors-shield]:https://hits.dwyl.com/username/repository.svg?style=for-the-badge
+<!-- [vistiors-url]: -->
 
   <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 

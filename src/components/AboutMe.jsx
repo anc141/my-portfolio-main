@@ -68,8 +68,8 @@ const AboutMe = ({ name }) => {
               >
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
-                Today, I'm immersed in an exhilarating chapter of my journey as a Software Engineer 
-                at the retail giant <span style={{ color: "var(--hl-color)" }}>Walmart</span>. My domain? The fascinating world of <span style={{ color: "var(--hl-color)" }}>software development</span>
+                 Today, I'm immersed in an exhilarating chapter of my journey as a Software Engineer 
+                at the retail giant <span style={{ color: "var(--hl-color)" }}>Walmart</span>. My domain? The fascinating world of <span style={{ color: "var(--hl-color)" }}>software development</span>. 
                 
                 
                 </motion.p>
@@ -85,7 +85,7 @@ const AboutMe = ({ name }) => {
                 <br />
                 <motion.p variants={paragraphVariants}>
                 Life is a rich tapestry of experiences, extending far beyond the boundaries of work. 
-                When coding isn't my primary focus, I'm engrossed in Traveling, Gardening, and nurturing my 
+                When coding isn't my primary focus, I'm engrossed in traveling, gardening, and nurturing my 
                 passion for working out.
                 </motion.p>
               </motion.div>
