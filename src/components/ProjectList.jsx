@@ -1,5 +1,4 @@
 import ProjectCard from "./ProjectCard";
-import projects from "../_data/projects.json";
 import Experience from "../_data/Experience.json";
 
 /**

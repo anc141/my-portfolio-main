@@ -13,28 +13,32 @@ import PageNotFound from "./pages/404/PageNotFound";
 import AboutMe from "./components/AboutMe";
 // import AnimatedRoutes from "./components/AnimatedRoutes";
 
-/**
- * Instructions for Customizing the Portfolio
- * ------------------------------------------
- * 1. Adding Your Own Projects:
- *    - Navigate to the "_data" folder and modify the "projects.json" file to include your projects.
- *
- * 2. Replacing Project Images:
- *    - Access the "public/projectImages" directory to replace the my project images with your own.
- *
- * 3. Handling Form Submissions:
- *    - To receive form submissions, obtain an API Key. Refer to the Form component for detailed instructions.
- *
- * For Assistance or Questions:
- * -----------------------------
- * If you require assistance or have questions, don't hesitate to reach out via LinkedIn or email.
- *
- * Support and Star:
- * ------------------
- * Enjoying this project? Please consider giving it a star (🌟).
- * I'm committed to ongoing updates and feature additions.
- * Your suggestions and feedback are invaluable and highly encouraged!
- */
+/*
+# Customizing Your Portfolio
+
+## Adding Your Own Projects
+1. Navigate to the `_data` folder.
+2. Modify the `experience.json` file to include your projects.
+
+## Replacing Project Images
+1. Access the `public/projectImages` directory.
+2. Replace the existing project images with your own.
+
+## Handling Form Submissions
+1. Obtain an API Key to receive form submissions.
+2. Refer to the Form component for detailed instructions.
+
+## Need Help or Have Questions?
+If you need assistance or have any questions, feel free to reach out via LinkedIn or email.
+
+## Support and Star
+Enjoying this project? Please consider giving it a star (🌟).
+I'm committed to providing ongoing updates and new features.
+Your suggestions and feedback are highly valued and encouraged!
+*/
+
+
+
 
 function App() {
   // Personal details for the user
