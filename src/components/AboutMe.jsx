@@ -95,9 +95,9 @@ const AboutMe = ({ name }) => {
                 <Button name="View Portfolio" />
               </NavLink>   
               {/* Button to open the resume in a new tab */}
-              <a href={resumeUrl} target="_blank" rel="noopener noreferrer">
+              {/* <a href={resumeUrl} target="_blank" rel="noopener noreferrer">
                 <Button className="nav-button" name="Download Resume"/>
-              </a>
+              </a> */}
             </motion.div>
           </div>
         </div>
